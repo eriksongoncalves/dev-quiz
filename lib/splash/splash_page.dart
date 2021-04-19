@@ -1,8 +1,7 @@
 import 'package:devquiz/core/core.dart';
 import 'package:flutter/material.dart';
-import 'package:devquiz/core/app_gradients.dart';
 
-class Splash extends StatelessWidget {
+class SplashPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
